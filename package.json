@@ -73,7 +73,7 @@
 		"colors": "^1.4.0",
 		"console-stamp": "^3.0.3",
 		"digest-fetch": "^1.2.1",
-		"eslint": "^8.5.0",
+		"eslint": "^8.57.1",
 		"express": "^4.17.2",
 		"express-ipfilter": "^1.2.0",
 		"feedme": "^2.0.2",
